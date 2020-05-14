@@ -8,5 +8,10 @@
 
 body {
   font-family: "Open Sans Condensed";
-  padding: 2em 3em;
+  padding: 1em 3em;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
 }
