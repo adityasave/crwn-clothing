@@ -44,7 +44,6 @@ const mapStateToProps = ({
 }) => ({
   currentUser,
   hidden,
-  cartItems,
 });
 
 export default connect(mapStateToProps)(Header);
